@@ -1,0 +1,11 @@
+H:\Workspace\Visual Studio 2013\Projects\NameChecking\NameChecking\bin\Debug\NameChecking.exe.config
+H:\Workspace\Visual Studio 2013\Projects\NameChecking\NameChecking\bin\Debug\NameChecking.exe
+H:\Workspace\Visual Studio 2013\Projects\NameChecking\NameChecking\bin\Debug\NameChecking.pdb
+H:\Workspace\Visual Studio 2013\Projects\NameChecking\NameChecking\obj\Debug\NameChecking.exe
+H:\Workspace\Visual Studio 2013\Projects\NameChecking\NameChecking\obj\Debug\NameChecking.pdb
+H:\Workspace\Visual Studio 2013\Projects\Regular Expression\NameChecking\NameChecking\bin\Debug\NameChecking.exe.config
+H:\Workspace\Visual Studio 2013\Projects\Regular Expression\NameChecking\NameChecking\obj\Debug\NameChecking.exe
+H:\Workspace\Visual Studio 2013\Projects\Regular Expression\NameChecking\NameChecking\obj\Debug\NameChecking.pdb
+H:\Workspace\Visual Studio 2013\Projects\Regular Expression\NameChecking\NameChecking\bin\Debug\NameChecking.exe
+H:\Workspace\Visual Studio 2013\Projects\Regular Expression\NameChecking\NameChecking\bin\Debug\NameChecking.pdb
+H:\Workspace\Visual Studio 2013\Projects\Regular Expression\NameChecking\NameChecking\obj\Debug\NameChecking.csprojResolveAssemblyReference.cache
